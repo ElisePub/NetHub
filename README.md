@@ -44,4 +44,4 @@ Pour arrêter le serveur executez ``symfony server:stop``.
 
 
 ## Auteurs
-* **Elise Pubert** _alias_ [@outout14](https://github.com/outout14)
+* **Elise Pubert** _alias_ [@ElisePub](https://github.com/ElisePub)
